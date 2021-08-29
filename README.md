@@ -11,6 +11,15 @@ This can be used to plan taxes for your current year as well as keep record of p
 5. Modify the sheets to meet your needs, such as adding additional investments.
 6. Checkout the summary table to know how much tax did you pay for the year, or if this you are using it plan your current year you can check how much can you save on with other options available.
 
+### Screenshots
+
+Table Structure
+
+![Screen Shot 2021-08-29 at 1 34 41 PM](https://user-images.githubusercontent.com/16250629/131243398-8f8ad293-676c-438a-bacb-cdd46a1711c0.jpg)
+
+Computation Summary
+
+![Screen Shot 2021-08-29 at 1 39 33 PM](https://user-images.githubusercontent.com/16250629/131243439-7ad1ed4d-46d0-417c-8a68-ae8d0278f068.jpg)
 
 ### Motivation
 
