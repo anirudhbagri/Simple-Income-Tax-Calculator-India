@@ -23,8 +23,8 @@ Computation Summary
 
 ### Motivation
 
-Over the years, I have troubled to calculate and keep track of all my income, investments, expenses and wondered how much is my tax liability. This sheet has helped my to keep track of all these and also helped me figure out how can I save more taxes.
- 
+Over the years, I have troubled to calculate and keep track of all my incomes, investments, expenses and wondered how much is my tax liability. This sheet has helped me to keep track of all these and also helped me figure out how can I save more taxes.
+
 ### Raising an issue
 
 This is an initial draft and does not include everything that is available for tax-payers. If you feel there is something missing, feel free to [raise an issue](https://github.com/anirudhbagri/Simple-Income-Tax-Calculator-India/issues/new) or [mail me](mailto:bagrianirudh@gmail.com) and I will modify the sheet. :)
