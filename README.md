@@ -1,4 +1,4 @@
-# Simple Income Tax Calculator (India)
+# Simple Income Tax Calculator + Planner (India)
 This is a very simple yet powerful way to keep track of all your income, investments, and tax liabilities over years. (India Only)
 This can be used to plan taxes for your current year as well as keep record of previous years.
 
