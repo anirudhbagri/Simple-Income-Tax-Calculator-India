@@ -2,6 +2,10 @@
 This is a very simple yet powerful way to keep track of all your income, investments, and tax liabilities over years. (India Only)
 This can be used to plan taxes for your current year as well as keep record of previous years.
 
+### Motivation
+
+Over the years, I have troubled to calculate and keep track of all my incomes, investments, expenses and wondered how much is my tax liability. This sheet has helped me to keep track of all these and also helped me figure out how can I save more taxes.
+
 ### How to use
 
 1. Head over to this publicly available [google sheet](https://docs.google.com/spreadsheets/d/1bCrpbn4DrGVSyg1xQejM3cLz620xloMimsujZqZFaU0/).
@@ -20,10 +24,6 @@ Table Structure
 Computation Summary
 
 ![Screen Shot 2021-08-29 at 1 39 33 PM](https://user-images.githubusercontent.com/16250629/131243439-7ad1ed4d-46d0-417c-8a68-ae8d0278f068.jpg)
-
-### Motivation
-
-Over the years, I have troubled to calculate and keep track of all my incomes, investments, expenses and wondered how much is my tax liability. This sheet has helped me to keep track of all these and also helped me figure out how can I save more taxes.
 
 ### Raising an issue
 
